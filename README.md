@@ -3,5 +3,7 @@ The Code for the paper titled **"DeepPseudo: Pseudo value based deep learning mo
 
 **Authors:** Md Mahmudur Rahman, Shinya Matsuzaki, Koji Matsuo, Sanjay Purushotham
 
+Code are available at: https://github.com/umbc-sanjaylab/DeepPseudo_AAAI2021
+
 
 
